@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif">
+<body style="background:grey"><img src="https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif">
 
 <h1 align="center">Hi 👋, I'm Amrita Tiwary</h1>
 <h3 align="center">A passionate web developer from India</h3>
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritatiwary1&show_icons=true&locale=en" alt="amritatiwary1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritatiwary1&" alt="amritatiwary1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritatiwary1&" alt="amritatiwary1" /></p></body>
