@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend Language For Web Development**
 
-- 💬 Ask me about **Java , python ,Django ,Javascript**
+- 💬 Ask me about **Java ,Javascript ,ReactJS ,DSA ,HTML , CSS **
 
 - 📫 How to reach me **amritatiwary112@gmail.com**
 
