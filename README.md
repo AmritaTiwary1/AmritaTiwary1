@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **amritatiwary112@gmail.com**
 
-- ⚡ Fun fact **I Enjoy Morning Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
